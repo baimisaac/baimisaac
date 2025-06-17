@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 ## 🚀 About Me
 
-- 💻 **Profession:** Java Developer (Fullstack)
+- 💻 **Profession:** Software Developer (Fullstack)
 - 🌱 **Currently learning:** Advanced Struts & Spring MVC, modern frontend techniques
 - 🔭 **Working on:** Enterprise apps with Struts, Spring MVC, and cross-platform mobile development
 
