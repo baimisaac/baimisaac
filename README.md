@@ -23,14 +23,12 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| [FindP - Parking Finder App](https://github.com/baimisaac/FindP) | Mobile app to help users find available parking spots efficiently | Flutter, Google Maps API, Firebase |
+| [FindP - Parking Finder App](https://github.com/baimisaac/ParkingSearcher) | Mobile app to help users find available parking spots efficiently | Flutter, Google Maps API, Firebase |
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#)
-- [Twitter/X](#)
-- [Personal Website/Portfolio](#)
-- [Email](mailto:#)
+- [LinkedIn](https://www.linkedin.com/in/ibisaac2001/)
+- [Email](mailto:ibrahimisaacmy@gmail.com)
 
 ---
 
